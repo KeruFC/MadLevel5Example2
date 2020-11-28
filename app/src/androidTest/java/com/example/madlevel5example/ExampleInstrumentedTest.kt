@@ -1,4 +1,4 @@
-package com.example.madlevel3example
+package com.example.madlevel5example
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
